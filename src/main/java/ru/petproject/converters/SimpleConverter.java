@@ -1,6 +1,7 @@
 package ru.petproject.converters;
 
 import ru.petproject.exceptions.BadImageSizeException;
+import ru.petproject.implementations.ColorSchemaImpl;
 import ru.petproject.interfaces.TextGraphicsConverter;
 
 import javax.imageio.ImageIO;
